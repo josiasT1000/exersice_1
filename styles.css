@@ -1,0 +1,124 @@
+body{
+  font-size: 18px;
+  background-color: hsl(214, 64%, 98%);
+  font-family: 'Open Sans', sans-serif;
+  color: hsl(208, 11%, 55%);
+  margin: 0;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  width: 60%;
+  margin: auto;text-align: center;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  margin: 50px auto 0;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+p{
+  width: 70%;
+  margin: 10px auto;
+  font-size: 1em;
+  line-height: 1.5;
+
+}
+hr{
+  border: none;
+  margin: 150px auto;
+}
+input{
+  width: 250px;
+  border-radius: 5px;
+}
+a{
+  text-decoration: none;
+  background-color: hsl(322, 100%, 66%);
+  font-family: Arial;
+  color: #ffffff;
+  text-align: center;
+}
+
+.logo{
+  margin: 15px;
+}
+.btn-white{
+  position: absolute;
+  right: 50px;
+  margin-top: 10px;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+}
+.head-img{
+  display: block;
+  width: 70%;
+  margin: 25px auto;
+}
+.btn-pink{
+  display: block;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  width: 250px;
+  margin: 40px auto 15px;
+}
+.middle-img{
+  float: left;
+  width: 45%;
+  height: 500px;
+  margin-right: 50px;
+}
+.middle-tag{
+  width: 50%;
+  margin: 200px auto 100px;
+  background-color: white;
+  box-shadow: -5px 5px 30px ;
+  padding: 40px;
+}
+.bottom-part{
+  background-color: black;
+  font-size: 0.8rem;
+  margin: 0;
+  text-align: left;
+  padding: 15px auto 50px;
+  align-content: top;
+}
+.bottom-row{
+  display: inline-table;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  width: 30%;
+}
+.contact-div{
+
+}
+.contact-img{
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin: 0 10px;
+}
+.bottom-tab{
+  width: 100%;
+  font-size: 1.5em;
+}
+.bottom-p{
+  margin: 15px 0;;
+}
+.logo-bottom{
+  display: block;
+  margin: 20px;
+  padding: 20px 10px 10px;
+}
+.btn-subs{
+  display: block;
+  padding: 5px;
+  margin: 10px 0;
+  width: 100px;
+  position: relative;
+  left: 145px;
+}
